@@ -1,0 +1,11 @@
+/* Combined CSS bundle for Demataluva Maha Viddiyalaya */
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://unpkg.com/aos@2.3.1/dist/aos.css');
+@import url('https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css');
+
+/* Project custom styles */
+@import url('style.css');
+
+
