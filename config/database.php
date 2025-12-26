@@ -3,7 +3,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'bright_future_academy');
 define('DB_USER', 'root');
-define('DB_PASS', 'Zxcv12345%');
+define('DB_PASS', '');
 
 // Create database connection
 try {
